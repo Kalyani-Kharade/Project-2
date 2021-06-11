@@ -1,0 +1,16 @@
+blue bg 
+Css 
+rgba(21,109,242,1)
+
+Black elements
+Css
+rgba(51,51,51,1)
+
+white elements
+Css 
+rgba(255,255,255,1)
+
+Raleway bold 
+
+Raleway semibold
+

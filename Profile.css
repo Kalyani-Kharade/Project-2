@@ -1,0 +1,5290 @@
+/*Default*/
+
+body{
+  background-color: rgba(255,255,255,1);
+}
+
+
+.first{
+  position: relative;
+  height: 850px;
+    background: rgba(21,109,242,1);
+    margin-bottom: 40px;
+}
+
+.inner{
+  position: relative;
+    top: 100px;
+}
+
+.btn{
+  position: relative;
+  float: right;
+  top: 23px;
+  right: 180px;
+  color: rgba(255,255,255,1);
+  border-color: rgba(255,255,255,1);
+  border-radius: 50px;
+  border-width: 3.5px;
+  font: bold 30px/50px "Raleway bold", sans-serif;
+  letter-spacing: 1px;
+  padding: 10px 43px;
+}
+
+.logo{
+  position: relative;
+  left: 240px;
+  height: 100px;
+}
+
+.text{
+  position: relative;
+  top: 250px;
+  left: 370px;
+  width: 800px;
+}
+
+h1.m-title{
+  color: rgba(255,255,255,1);
+  font: bold 60px/90px "Raleway bold", sans-serif;
+  
+}
+
+.btn-light{
+  position: relative;
+  right: 250px;
+  margin-top: 50px;
+  color:rgba(51,51,51,1) ;
+  background-color: rgba(255,255,255,1);
+}
+.btn .btn-outline-light{
+  background-color: transparent;
+}
+
+
+
+.home {
+    position: relative;
+    height: 900px;
+    background: rgba(21,109,242,1);
+    margin-bottom: 40px; 
+    margin-top: 200px;
+  }
+  
+  .container{
+    position: relative;
+    top: 100px;
+    background: rgba(21,109,242,1);
+  }
+
+  .founder {
+    position: relative;
+    height: 700px;
+    background: url('Images/A.png') no-repeat right center;
+    background-size: 500px;
+    margin-right: 20px;
+  }
+  .founder-text {
+    float: left;
+    position: relative;
+    top: 115px;
+    width: 800px;
+    margin-left: 80px;
+  }
+  h1.f-title {
+    font: bold 60px/90px "Raleway bold", sans-serif;
+    color: rgba(255,255,255,1);
+    letter-spacing: 1.5px;
+  }
+
+  ul{
+    position: relative;
+    font-family: "Raleway Semibold", sans-serif;
+    color:rgba(255,255,255,1) ;
+    font-size:30px;
+    list-style-type: none;
+    line-height: 80px;
+    padding: 50px 0 20px 0;
+  }
+
+  .a1{
+    height: 40px;
+    margin-right: 20px;
+  }
+
+
+
+
+.container-1{
+  height: 1600px;
+}
+  .star{
+    position: relative;
+    width: 100%;
+    height: 240px;
+  }
+  .tilt1{
+    height: 820px;
+    width: 1200px;
+  }
+  .tilt2{
+    height: 860px;
+    width: 1100px;
+    margin-left: 70px;
+  }
+
+  .pic{           
+    position: absolute;
+  }
+  .overlay{
+    position: relative;
+     top: 340px;
+    height: 900px;
+    background: rgba(21,109,242,1);
+    color: rgba(255,255,255,1);
+    margin: -50;
+  }
+  .overlay-content{
+    position: relative;
+    width: 250px; 
+    float: left;  
+    top: 310px;
+    left: 250px;
+  }
+  .para{
+    position: relative;
+     float: right;
+     top: 250px;
+     right: 150px;
+     width: 700px;
+  }
+  h1.title{
+    font: bold 90px/90px "Raleway bold", sans-serif;
+    letter-spacing: 1.5px;
+  }
+  h4.title1{
+    font-family: "Raleway Semibold", sans-serif;
+    font-size: 36px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  h6.title2{
+    font-family: "Raleway Semibold", sans-serif;
+    font-size: 26px;
+  }
+
+
+.rating{
+  position: relative;
+  height: 1000px;
+  background: rgba(21,109,242,1);
+  color:rgba(255,255,255,1) ;
+}
+.mini-logo{
+  position: relative;
+  top: 160px;
+  left: 590px;
+  height: 130px;
+}
+.star-1{
+  position: relative;
+  left: -80px;
+  height: 50px;
+  margin-left: 5px;
+  top: 40px;
+}
+.star-2{
+  position: relative;
+  left: -80px;
+  height: 50px;
+  margin-left: 5px;
+  top: 40px;
+}
+img.p{
+  height: 65px;
+ 
+}
+img.ap{
+  height: 60px;
+  margin-bottom: 5px;
+}
+span{
+  position: relative;
+  top: 4px;
+  font-size: 35px;
+  font-family: "Raleway Semibold", sans-serif;
+}
+.playstore{
+  position: relative;
+  float: left;
+  left: 340px;
+  top: 320px;
+  width: 490px;
+}
+.apple{
+  position: relative;
+  float: right;
+  right: -80px;
+  top: 320px;
+  width: 490px;
+}
+#carouselExample{
+position: relative;
+top: 500px;
+}
+.c{
+  position: relative ;
+  margin-bottom: 90px;
+  font-size: 40px;
+}
+
+
+
+
+.four{
+  position: relative;
+  top: 50px;
+ height: 1100px;
+}
+.tilt-l{
+  height: 720px;
+  position: relative;
+  left: 350px;
+}
+h1.last{
+  font: bold 70px/30px "Raleway bold", sans-serif;
+    letter-spacing: 1.5px;
+}
+
+
+
+.five{
+  height: 600px;
+  background: rgba(21,109,242,1);
+  color:rgba(255,255,255,1); 
+}
+.column {
+  position: relative;
+  float: left;
+  left: 100px;
+  width: 23%;
+  align-items: center;
+  padding-left: 80px;
+}
+.row{
+position: relative;
+top: 80px;
+}
+.row:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+h2{
+  font: bold 28px/50px "Raleway bold", sans-serif;
+}
+p{
+  font-size: 17px;
+  font-family: "Raleway Semibold", sans-serif;
+}
+h1.bottom{
+  position: relative;
+  font: bold 28px/50px "Raleway Semibold", sans-serif;
+  letter-spacing: 1.2px;
+  top: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 1366px)
+{
+  .first{
+    position: relative;
+    height: 850px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  
+  .btn{
+    position: relative;
+    float: right;
+    top: 23px;
+    right: 180px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 3.5px;
+    font: bold 30px/50px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 10px 43px;
+  }
+  
+  .logo{
+    position: relative;
+    left: 200px;
+    height: 100px;
+  }
+  
+  .text{
+    position: relative;
+    top: 250px;
+    left: 280px;
+    width: 800px;
+  }
+  
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 55px/90px "Raleway bold", sans-serif;
+    
+  }
+  
+  .btn-light{
+    position: relative;
+    right: 250px;
+    margin-top: 50px;
+    color:rgba(51,51,51,1) ;
+  background-color: rgba(255,255,255,1);
+}
+.btn .btn-outline-light{
+  background-color: transparent;
+}
+
+  
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 900px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 200px;
+    }
+    
+    .container{
+      position: relative;
+      top: 100px;
+      background: rgba(21,109,242,1)
+    }
+  
+    .founder {
+      height: 700px;
+      background: url('Images/A.png') no-repeat right center;
+      background-size: 450px;
+      margin-right: -50px;
+    }
+    .founder-text {
+      float: left;
+      position: relative;
+      top: 115px;
+      width: 800px;
+      margin-left: 100px;
+    }
+    h1.f-title {
+      font: bold 55px/90px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+  
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:27px;
+      list-style-type: none;
+      line-height: 80px;
+      padding: 40px 0 20px 0;
+    }
+  
+    .a1{
+      height: 40px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 1400px;
+  }
+    .star{
+      position: relative;
+      width: 100%;
+      height: 240px;
+    }
+    .tilt1{
+      height: 680px;
+      width: 1200px;
+    }
+    .tilt2{
+      height: 660px;
+      width: 1100px;
+      margin-left: 70px;
+    }
+  
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 320px;
+      height: 700px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+      margin: -40px;
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px; 
+      float: left;  
+      top: 220px;
+      left: 200px;
+    }
+    .para{
+      position: relative;
+       float: right;
+       top: 170px;
+       right: 150px;
+       width: 600px;
+    }
+    h1.title{
+      font: bold 70px/80px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 30px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 22px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 900px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 110px;
+    left: 510px;
+    height: 120px;
+  }
+  .star-1{
+    position: relative;
+    height: 47px;
+    margin-left: 5px;
+    right: 10px;
+  }
+  .star-2{
+    position: relative;
+    height: 47px;
+    margin-left: 5px;
+    right: 10px;
+  }
+  img.p{
+    height: 45px;
+  }
+  img.ap{
+    height: 50px;
+    margin-bottom: 5px;
+  }
+  
+  span{
+    position: relative;
+    top: 4px;
+    font-size: 27px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    float: left;
+    left: 300px;
+    top: 250px;
+    width: 450px;
+  }
+  .apple{
+    position: relative;
+    float: right;
+    right: -80px;
+    top: 250px;
+    width: 450px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 400px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 30px;
+  }
+  
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 1100px;
+  }
+  .tilt-l{
+    height: 700px;
+    position: relative;
+    left: 280px;
+  }
+  h1.last{
+    font: bold 65px/30px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 600px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 100px;
+    width: 23%;
+    align-items: center;
+    padding-left: 50px;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 28px/50px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 17px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 28px/50px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 180px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 1280px)
+{
+  .first{
+    position: relative;
+    height: 850px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  
+  .btn{
+    position: relative;
+    float: right;
+    top: 23px;
+    right: 180px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 3.5px;
+    font: bold 30px/50px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 10px 43px;
+  }
+  
+  .logo{
+    position: relative;
+    left: 200px;
+    height: 100px;
+  }
+  
+  .text{
+    position: relative;
+    top: 250px;
+    left: 250px;
+    width: 800px;
+  }
+  
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 55px/90px "Raleway bold", sans-serif;
+    
+  }
+  
+  .btn-light{
+    position: relative;
+    right: 250px;
+    margin-top: 50px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 900px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 200px;
+    }
+    
+    .container{
+      position: relative;
+      top: 100px;
+      background: rgba(21,109,242,1)
+    }
+  
+    .founder {
+      height: 700px;
+      background: url('Images/A.png') no-repeat right center;
+      background-size: 450px;
+      margin-right: -50px;
+    }
+    .founder-text {
+      float: left;
+      position: relative;
+      top: 115px;
+      width: 800px;
+      margin-left: 100px;
+    }
+    h1.f-title {
+      font: bold 55px/90px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+  
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:27px;
+      list-style-type: none;
+      line-height: 80px;
+      padding: 40px 0 20px 0;
+    }
+  
+    .a1{
+      height: 40px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 1400px;
+  }
+    .star{
+      position: relative;
+      width: 100%;
+      height: 240px;
+    }
+    .tilt1{
+      height: 680px;
+      width: 1200px;
+    }
+    .tilt2{
+      height: 660px;
+      width: 1100px;
+      margin-left: 70px;
+    }
+  
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 320px;
+      height: 700px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+      margin: -40px;
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px; 
+      float: left;  
+      top: 220px;
+      left: 200px;
+    }
+    .para{
+      position: relative;
+       float: right;
+       top: 170px;
+       right: 150px;
+       width: 600px;
+    }
+    h1.title{
+      font: bold 70px/80px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 30px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 22px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 900px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 110px;
+    left: 500px;
+    height: 120px;
+  }
+  .star-1{
+    position: relative;
+    height: 47px;
+    margin-left: 5px;
+    right: 10px;
+  }
+  .star-2{
+    position: relative;
+    height: 47px;
+    margin-left: 5px;
+    right: 10px;
+  }
+  img.p{
+    height: 45px;
+  }
+  img.ap{
+    height: 50px;
+    margin-bottom: 5px;
+  }
+  
+  span{
+    position: relative;
+    top: 4px;
+    font-size: 27px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    float: left;
+    left: 250px;
+    top: 250px;
+    width: 460px;
+  }
+  .apple{
+    position: relative;
+    float: right;
+    right: -150px;
+    top: 250px;
+    width: 460px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 400px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 30px;
+  }
+  
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 1100px;
+  }
+  .tilt-l{
+    height: 700px;
+    position: relative;
+    left: 250px;
+  }
+  h1.last{
+    font: bold 65px/30px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 600px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 100px;
+    width: 23%;
+    align-items: center;
+    padding-left: 50px;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 28px/50px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 17px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 28px/50px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 180px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 1112px)
+{
+  .first{
+    position: relative;
+    height: 750px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  
+  .btn{
+    position: relative;
+    float: right;
+    top: 18px;
+    right: 120px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 3.5px;
+    font: bold 20px/40px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 5px 23px;
+  }
+  
+  .logo{
+    position: relative;
+    left: 150px;
+    height: 70px;
+  }
+  
+  .text{
+    position: relative;
+    top: 250px;
+    left: 150px;
+    width: 800px;
+  }
+  
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 50px/80px "Raleway bold", sans-serif;  
+  }
+  .btn-light{
+    position: relative;
+    right: 280px;
+    margin-top: 50px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 850px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 200px;
+    }
+    
+    .container{
+      position: relative;
+      top: 90px;
+      background: rgba(21,109,242,1)
+    }
+  
+    .founder {
+      height: 700px;
+      background: url('Images/A.png') no-repeat right center;
+      background-size: 400px;
+    }
+    .founder-text {
+      float: left;
+      position: relative;
+      top: 125px;
+      width: 700px;
+      margin-left: 100px;
+    }
+    h1.f-title {
+      font: bold 45px/75px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:25px;
+      list-style-type: none;
+      line-height: 80px;
+      padding: 40px 0 20px 0;
+    }
+    .a1{
+      height: 40px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 1200px;
+  }
+    .star{
+      position: relative;
+      width:180px;
+      height: 180px;
+    }
+    .tilt1{
+      height: 600px;
+      width: 900px;
+    }
+    .tilt2{
+      height: 610px;
+      width: 900px;
+      margin-left: 20px;
+    }
+  
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 270px;
+      height: 660px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px; 
+      float: left;  
+      top: 230px;
+      left: 150px;
+    }
+    .para{
+      position: relative;
+       float: right;
+       top: 150px;
+       right: 80px;
+       width: 600px;
+    }
+    h1.title{
+      font: bold 60px/80px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 25px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 20px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 800px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 110px;
+    left: 430px;
+    height: 100px;
+  }
+  .star-1{
+    position: relative;
+    height: 40px;
+    margin-left: 5px;
+    left: -80px;
+  }
+  .star-2{
+    position: relative;
+    height: 40px;
+    margin-left: 5px;
+    left: -80px;
+  }
+  img.p{
+    height: 45px;
+  }
+  img.ap{
+    height: 45px;
+  }
+  
+  span{
+    position: relative;
+    top: 4px;
+    font-size: 21px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    float: left;
+    left: 250px;
+    top: 250px;
+    width: 425px;
+  }
+  .apple{
+    position: relative;
+    float: right;
+    right: -150px;
+    top: 250px;
+    width: 425px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 400px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 30px;
+  }
+  
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 850px;
+  }
+  .tilt-l{
+    height: 600px;
+    position: relative;
+    left: 200px;
+  }
+  h1.last{
+    font: bold 55px/30px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 500px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 100px;
+    width: 23%;
+    align-items: center;
+    padding-left: 20px;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 28px/50px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 17px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 28px/50px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 1024px)
+{
+  .first{
+    position: relative;
+    height: 750px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  
+  .btn{
+    position: relative;
+    float: right;
+    top: 18px;
+    right: 120px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 3.5px;
+    font: bold 20px/40px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 5px 23px;
+  }
+  
+  .logo{
+    position: relative;
+    left: 150px;
+    height: 70px;
+  }
+  
+  .text{
+    position: relative;
+    top: 250px;
+    left: 120px;
+    width: 800px;
+  }
+  
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 50px/80px "Raleway bold", sans-serif;  
+  }
+  .btn-light{
+    position: relative;
+    right: 280px;
+    margin-top: 50px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 850px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 200px;
+    }
+    
+    .container{
+      position: relative;
+      top: 90px;
+      background: rgba(21,109,242,1)
+    }
+  
+    .founder {
+      height: 700px;
+      background: url('Images/A.png') no-repeat right center;
+      background-size: 400px;
+    }
+    .founder-text {
+      float: left;
+      position: relative;
+      top: 125px;
+      width: 700px;
+      margin-left: 100px;
+    }
+    h1.f-title {
+      font: bold 45px/75px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:25px;
+      list-style-type: none;
+      line-height: 80px;
+      padding: 40px 0 20px 0;
+    }
+    .a1{
+      height: 40px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 1200px;
+  }
+    .star{
+      position: relative;
+      width:180px;
+      height: 180px;
+    }
+    .tilt1{
+      height: 600px;
+      width: 900px;
+    }
+    .tilt2{
+      height: 610px;
+      width: 900px;
+      margin-left: 20px;
+    }
+  
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 270px;
+      height: 660px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px; 
+      float: left;  
+      top: 230px;
+      left: 150px;
+    }
+    .para{
+      position: relative;
+       float: right;
+       top: 150px;
+       right: 80px;
+       width: 600px;
+    }
+    h1.title{
+      font: bold 60px/80px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 25px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 20px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 850px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 110px;
+    left: 400px;
+    height: 100px;
+  }
+  .star-1{
+    position: relative;
+    height: 40px;
+    margin-left: 5px;
+  }
+  .star-2{
+    position: relative;
+    height: 40px;
+    margin-left: 5px;
+  }
+  img.p{
+    height: 45px;
+  }
+  img.ap{
+    height: 45px;
+  }
+  
+  span{
+    position: relative;
+    top: 4px;
+    font-size: 21px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    float: left;
+    left: 240px;
+    top: 250px;
+    width: 420px;
+  }
+  .apple{
+    position: relative;
+    float: right;
+    right: -165px;
+    top: 250px;
+    width: 420px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 400px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 30px;
+  }
+  
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 850px;
+  }
+  .tilt-l{
+    height: 600px;
+    position: relative;
+    left: 200px;
+  }
+  h1.last{
+    font: bold 55px/30px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 600px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 100px;
+    width: 23%;
+    align-items: center;
+    padding-left: 20px;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 28px/50px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 17px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 28px/50px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 180px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 960px)
+{
+  .first{
+    position: relative;
+    height: 650px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  .inner{
+    position: relative;
+      top: 100px;
+      right: 50px;
+  }
+  .btn{
+    position: relative;
+    float: right;
+    top: 18px;
+    right: 40px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 3px;
+    font: bold 20px/35px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 5px 22px;
+  }
+  .logo{
+    position: relative;
+    left: 150px;
+    height: 70px;
+  }
+  .text{
+    position: relative;
+    top: 230px;
+    left: 155px;
+    width: 600px;
+  }
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 40px/60px "Raleway bold", sans-serif; 
+  }
+  .btn-light{
+    position: relative;
+    right: 190px;
+    margin-top: 30px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 700px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 100px;
+    }
+
+    .container{
+      position: relative;
+      top: 0px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      height: 700px;
+      background: url('Images/A.png') no-repeat right center;
+      background-size: 350px;
+      position: relative;
+      left: 30px;
+    }
+    .founder-text {
+      float: left;
+      right: 90px;
+      position: relative;
+      top: 200px;
+      width: 350px;
+    }
+    h1.f-title {
+      font: bold 30px/40px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+  
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:18px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 20px 0 10px 0;
+    }
+    .a1{
+      height: 30px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 900px;
+  }
+    .star{
+      position: relative;
+      height: 55%;
+      width: 55%;
+    }
+    .tilt1{
+      height: 440px;
+      width: 800px;
+    }
+    .tilt2{
+      height: 480px;
+      width: 800px;
+    }
+    .pic{           
+      position: absolute;
+      margin: -0px;
+    }
+    .overlay{
+      position: relative;
+       top: 205px;
+      height: 480px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px; 
+      float: left;  
+      top: 150px;
+      left: 200px;
+    }
+    .para{
+      position: relative;
+       float: right;
+       top: 100px;
+       right: 150px;
+       width: 400px;
+    }
+    h1.title{
+      font: bold 55px/60px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 20px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 18px;
+    }
+  
+
+
+
+  .rating{
+    position: relative;
+    height: 700px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 80px;
+    left: 350px;
+    height: 100px;
+  }
+  .star-1{
+    position: relative;
+    height: 30px;
+    margin-left: 5px;
+    top: 25px;
+  }
+  .star-2{
+    position: relative;
+    height: 30px;
+    margin-left: 5px;
+    top: 25px;
+  }
+  img.p{
+    height: 40px;
+  }
+  img.ap{
+    height: 38px;
+  }
+  span{
+    position: relative;
+    font-size: 20px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    float: left;
+    left: 250px;
+    top: 190px;
+    width: 306px;
+  }
+  .apple{
+    position: relative;
+    float: right;
+    right: -80px;
+    top: 190px;
+    width: 307px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 300px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 30px;
+  }
+  
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 850px;
+  }
+  .tilt-l{
+    height: 620px;
+    position: relative;
+    left: 150px;
+  }
+  h1.last{
+    font: bold 50px/30px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 450px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 70px;
+    width: 23%;
+    align-items: center;
+    padding-left: 10px;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 25px/40px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 25px/50px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 846px)
+{
+  .first{
+    position: relative;
+    height: 650px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  .inner{
+    position: relative;
+      top: 100px;
+      right: 50px;
+  }
+  .btn{
+    position: relative;
+    float: right;
+    top: 18px;
+    right: 40px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 3px;
+    font: bold 20px/35px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 5px 22px;
+  }
+  .logo{
+    position: relative;
+    left: 150px;
+    height: 70px;
+  }
+  .text{
+    position: relative;
+    top: 230px;
+    left: 125px;
+    width: 600px;
+  }
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 40px/60px "Raleway bold", sans-serif; 
+  }
+  .btn-light{
+    position: relative;
+    right: 190px;
+    margin-top: 30px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 700px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 100px;
+    }
+
+    .container{
+      position: relative;
+      top: 0px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      height: 700px;
+      background: url('Images/A.png') no-repeat right center;
+      background-size: 350px;
+      position: relative;
+      left: 10px;
+    }
+    .founder-text {
+      float: left;
+      right: 60px;
+      position: relative;
+      top: 180px;
+      width: 400px;
+    }
+    h1.f-title {
+      font: bold 30px/40px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+  
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:18px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 20px 0 10px 0;
+    }
+    .a1{
+      height: 30px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 900px;
+  }
+    .star{
+      position: relative;
+      height: 50%;
+      width: 50%;
+    }
+    .tilt1{
+      height: 440px;
+      width: 700px;
+    }
+    .tilt2{
+      height: 480px;
+      width: 700px;
+    }
+    .pic{           
+      position: absolute;
+      margin: -0px;
+    }
+    .overlay{
+      position: relative;
+       top: 205px;
+      height: 480px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px; 
+      float: left;  
+      top: 150px;
+      left: 150px;
+    }
+    .para{
+      position: relative;
+       float: right;
+       top: 100px;
+       right: 50px;
+       width: 400px;
+    }
+    h1.title{
+      font: bold 50px/60px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 18px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 15px;
+    }
+  
+
+
+
+  .rating{
+    position: relative;
+    height: 700px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 80px;
+    left: 300px;
+    height: 90px;
+  }
+  .star-1{
+    position: relative;
+    height: 30px;
+    margin-left: 5px;
+  }
+  .star-2{
+    position: relative;
+    height: 30px;
+    margin-left: 5px;
+  }
+  img.p{
+    height: 40px;
+  }
+  img.ap{
+    height: 38px;
+  }
+  span{
+    position: relative;
+    font-size: 20px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    float: left;
+    left: 200px;
+    top: 190px;
+    width: 306px;
+  }
+  .apple{
+    position: relative;
+    float: right;
+    top: 190px;
+    width: 305px;
+    right: -110px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 300px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 30px;
+  }
+  
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 850px;
+  }
+  .tilt-l{
+    height: 620px;
+    position: relative;
+    left: 90px;
+  }
+  h1.last{
+    font: bold 50px/30px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 450px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 70px;
+    width: 23%;
+    align-items: center;
+    padding-left: 10px;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 25px/40px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 25px/50px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 812px)
+{
+  .first{
+    position: relative;
+    height: 650px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  .inner{
+    position: relative;
+      top: 100px;
+      right: 50px;
+  }
+  .btn{
+    position: relative;
+    float: right;
+    top: 18px;
+    right: 40px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 3px;
+    font: bold 20px/35px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 5px 18px;
+  }
+  .logo{
+    position: relative;
+    left: 150px;
+    height: 65px;
+  }
+  .text{
+    position: relative;
+    top: 220px;
+    left: 90px;
+    width: 600px;
+  }
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 35px/50px "Raleway bold", sans-serif; 
+  }
+  .btn-light{
+    position: relative;
+    right: 200px;
+    margin-top: 30px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 700px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 100px;
+    }
+
+    .container{
+      position: relative;
+      top: 0px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      height: 700px;
+      background: url('Images/A.png') no-repeat right center;
+      background-size: 350px;
+      position: relative;
+      left: 10px;
+    }
+    .founder-text {
+      float: left;
+      right: 60px;
+      position: relative;
+      top: 180px;
+      width: 400px;
+    }
+    h1.f-title {
+      font: bold 30px/40px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+  
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:18px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 20px 0 10px 0;
+    }
+    .a1{
+      height: 30px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 900px;
+  }
+    .star{
+      position: relative;
+      height: 50%;
+      width: 50%;
+    }
+    .tilt1{
+      height: 440px;
+      width: 700px;
+    }
+    .tilt2{
+      height: 480px;
+      width: 700px;
+    }
+    .pic{           
+      position: absolute;
+      margin: -0px;
+    }
+    .overlay{
+      position: relative;
+       top: 195px;
+      height: 480px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px; 
+      float: left;  
+      top: 150px;
+      left: 150px;
+    }
+    .para{
+      position: relative;
+       float: right;
+       top: 100px;
+       right: 50px;
+       width: 400px;
+    }
+    h1.title{
+      font: bold 50px/60px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 18px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 15px;
+    }
+  
+
+
+
+  .rating{
+    position: relative;
+    height: 650px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 80px;
+    left: 290px;
+    height: 90px;
+  }
+  .star-1{
+    position: relative;
+    height: 30px;
+    margin-left: 5px;
+  }
+  .star-2{
+    position: relative;
+    height: 30px;
+    margin-left: 5px;
+  }
+  img.p{
+    height: 40px;
+  }
+  img.ap{
+    height: 38px;
+  }
+  span{
+    position: relative;
+    font-size: 20px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    float: left;
+    left: 190px;
+    top: 190px;
+    width: 316px;
+  }
+  .apple{
+    position: relative;
+    float: right;
+    right: -120px;
+    top: 190px;
+    width: 315px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 300px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 30px;
+  }
+  
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 850px;
+  }
+  .tilt-l{
+    height: 620px;
+    position: relative;
+    left: 50px;
+  }
+  h1.last{
+    font: bold 50px/30px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 450px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 70px;
+    width: 23%;
+    align-items: center;
+    padding-left: 10px;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 25px/40px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 25px/50px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 768px)
+{
+  .first{
+    position: relative;
+    height: 650px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  .inner{
+    position: relative;
+      top: 100px;
+      right: 50px;
+  }
+  .btn{
+    position: relative;
+    float: right;
+    top: 18px;
+    right: 40px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 3px;
+    font: bold 20px/35px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 5px 18px;
+  }
+  .logo{
+    position: relative;
+    left: 150px;
+    height: 65px;
+  }
+  .text{
+    position: relative;
+    top: 220px;
+    left: 90px;
+    width: 600px;
+  }
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 35px/50px "Raleway bold", sans-serif; 
+  }
+  .btn-light{
+    position: relative;
+    right: 200px;
+    margin-top: 30px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 700px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 100px;
+    }
+
+    .container{
+      position: relative;
+      top: 0px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      height: 700px;
+      background: url('Images/A.png') no-repeat right center;
+      background-size: 350px;
+      position: relative;
+      left: 10px;
+    }
+    .founder-text {
+      float: left;
+      right: 60px;
+      position: relative;
+      top: 180px;
+      width: 400px;
+    }
+    h1.f-title {
+      font: bold 30px/40px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+  
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:18px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 20px 0 10px 0;
+    }
+    .a1{
+      height: 30px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 900px;
+  }
+    .star{
+      position: relative;
+      height: 50%;
+      width: 50%;
+    }
+    .tilt1{
+      height: 440px;
+      width: 700px;
+    }
+    .tilt2{
+      height: 460px;
+      width: 650px;
+    }
+    .pic{           
+      position: absolute;
+      margin: -0px;
+    }
+    .overlay{
+      position: relative;
+       top: 200px;
+      height: 480px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px; 
+      float: left;  
+      top: 150px;
+      left: 150px;
+    }
+    .para{
+      position: relative;
+       float: right;
+       top: 100px;
+       right: 50px;
+       width: 400px;
+    }
+    h1.title{
+      font: bold 50px/60px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 18px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 15px;
+    }
+  
+
+
+
+  .rating{
+    position: relative;
+    height: 650px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 80px;
+    left: 270px;
+    height: 90px;
+  }
+  .star-1{
+    position: relative;
+    height: 30px;
+    margin-left: 5px;
+    top: 25px;
+  }
+  .star-2{
+    position: relative;
+    height: 30px;
+    margin-left: 5px;
+    top: 25px;
+  }
+  img.p{
+    height: 40px;
+  }
+  img.ap{
+    height: 38px;
+  }
+  span{
+    position: relative;
+    font-size: 20px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    float: left;
+    left: 180px;
+    top: 190px;
+    width: 316px;
+  }
+  .apple{
+    position: relative;
+    float: right;
+    right: -125px;
+    top: 190px;
+    width: 315px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 300px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 30px;
+  }
+  
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 850px;
+  }
+  .tilt-l{
+    height: 620px;
+    position: relative;
+    left: 50px;
+  }
+  h1.last{
+    font: bold 50px/30px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 450px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 70px;
+    width: 23%;
+    align-items: center;
+    padding-left: 10px;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 25px/40px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 25px/50px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+  #K1{
+    font: bold 30px/20px "Raleway Semibold", sans-serif;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 740px)
+{
+  .first{
+    position: relative;
+    height: 450px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  
+  .btn{
+    position: relative;
+    float: right;
+    top: -18px;
+    right: 10px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 3px;
+    font: bold 15px/20px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 8px 43px;
+  }
+  
+  .logo{
+    position: relative;
+    left: 120px;
+    top: -35px;
+    height: 60px;
+  }
+  
+  .text{
+    position: relative;
+    top: 140px;
+    left: 120px;
+    width: 500px;
+  }
+  
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 30px/45px "Raleway bold", sans-serif;
+  }
+  .btn-light{
+    position: relative;
+    right: 150px;
+    margin-top: 50px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 800px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 200px;
+    }
+    .container{
+      position: relative;
+      top: 100px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      width: 100%;
+      height: 700px;
+      background: url('Images/A.png') no-repeat center top;
+      background-size: 200px;
+    }
+    .founder-text {
+      top: 300px;
+      width: 100%;
+      margin-left: 80px;
+    }
+    h1.f-title {
+      font: bold 30px/45px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:20px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 30px 0 20px 0;
+    }
+    .a1{
+      height: 40px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 1000px;
+  }
+    .star{
+      position: relative;
+      width: 110px;
+      height: 110px;
+    }
+    .tilt1{
+      height: 500px;
+      width: 650px;
+    }
+    .tilt2{
+      height: 505px;
+      width: 600px;
+    }
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 200px;
+      height: 580px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px;  
+      top: 50px;
+      left: 360px;
+    }
+    .para{
+      position: relative;
+       top: 240px;
+       right: 190px;
+       width: 400px;
+    }
+    h1.title{
+      font: bold 45px/50px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 25px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 18px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 900px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 100px;
+    left: 260px;
+    height: 90px;
+  }
+  .star-1{
+    position: relative;
+    height: 40px;
+    top: 12px;
+    margin-left: 3px;
+  }
+  .star-2{
+    position: relative;
+    height: 40px;
+    top: 12px;
+    margin-left: 3px;
+  }
+  img.p{
+    height: 45px;
+   
+  }
+  img.ap{
+    height: 40px;
+    margin-bottom: 5px;
+  }
+  span{
+    position: relative;
+    font-size: 18px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    left: 370px;
+    top: 220px;
+    width: 295px;
+  }
+  .apple{
+    position: relative;
+    right: 80px;
+    top: 420px;
+    width: 300px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 500px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 30px;
+  }
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 600px;
+  }
+  .tilt-l{
+    height: 400px;
+    position: relative;
+    left: 130px;
+  }
+  h1.last{
+    font: bold 30px/15px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 700px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 0px;
+    width: 40%;
+    align-items: center;
+    padding-left: 80px;
+    margin: 4%;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 18px/20px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 20px/20px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+  #K1{
+    font: bold 25px/20px "Raleway Semibold", sans-serif;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 667px)
+{
+  .first{
+    position: relative;
+    height: 450px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  
+  .btn{
+    position: relative;
+    float: right;
+    top: -18px;
+    right: 10px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 2.5px;
+    font: bold 15px/25px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 8px 43px;
+  }
+  
+  .logo{
+    position: relative;
+    left: 120px;
+    top: -35px;
+    height: 60px;
+  }
+  
+  .text{
+    position: relative;
+    top: 140px;
+    left: 90px;
+    width: 500px;
+  }
+  
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 30px/45px "Raleway bold", sans-serif;
+  }
+  .btn-light{
+    position: relative;
+    right: 150px;
+    margin-top: 50px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 800px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 200px;
+    }
+    .container{
+      position: relative;
+      top: 100px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      width: 100%;
+      height: 700px;
+      background: url('Images/A.png') no-repeat center top;
+      background-size: 200px;
+    }
+    .founder-text {
+      top: 300px;
+      width: 100%;
+      margin-left: 80px;
+    }
+    h1.f-title {
+      font: bold 30px/45px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:20px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 30px 0 20px 0;
+    }
+    .a1{
+      height: 40px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 1000px;
+  }
+    .star{
+      position: relative;
+      width: 100px;
+      height: 100px;
+    }
+    .tilt1{
+      height: 500px;
+      width: 600px;
+    }
+    .tilt2{
+      height: 505px;
+      width: 550px;
+    }
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 200px;
+      height: 580px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px;  
+      top: 50px;
+      left: 320px;
+    }
+    .para{
+      position: relative;
+       top: 240px;
+       right: 140px;
+       width: 400px;
+    }
+    h1.title{
+      font: bold 40px/50px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 22px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 16px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 900px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 90px;
+    left: 230px;
+    height: 90px;
+  }
+  .star-1{
+    position: relative;
+    height: 40px;
+    top: 10px;
+    margin-left: 3px;
+  }
+  .star-2{
+    position: relative;
+    height: 40px;
+    top: 10px;
+    margin-left: 3px;
+  }
+  img.p{
+    height: 45px;
+   
+  }
+  img.ap{
+    height: 40px;
+    margin-bottom: 5px;
+  }
+  span{
+    position: relative;
+    font-size: 18px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    left: 330px;
+    top: 220px;
+    width: 300px;
+  }
+  .apple{
+    position: relative;
+    right: 45px;
+    top: 420px;
+    width: 300px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 500px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 25px;
+  }
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 600px;
+  }
+  .tilt-l{
+    height: 400px;
+    position: relative;
+    left: 130px;
+  }
+  h1.last{
+    font: bold 30px/15px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 700px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 0px;
+    width: 40%;
+    align-items: center;
+    padding-left: 80px;
+    margin: 4%;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 18px/20px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 20px/20px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+  #K1{
+    font: bold 25px/20px "Raleway Semibold", sans-serif;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 640px)
+{
+  .first{
+    position: relative;
+    height: 450px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  
+  .btn{
+    position: relative;
+    float: right;
+    top: -18px;
+    right: 10px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 2.5px;
+    font: bold 15px/27px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 8px 43px;
+  }
+  
+  .logo{
+    position: relative;
+    left: 120px;
+    top: -35px;
+    height: 60px;
+  }
+  
+  .text{
+    position: relative;
+    top: 140px;
+    left: 80px;
+    width: 500px;
+  }
+  
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 30px/45px "Raleway bold", sans-serif;
+  }
+  .btn-light{
+    position: relative;
+    right: 150px;
+    margin-top: 50px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 800px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 100px;
+    }
+    .container{
+      position: relative;
+      top: 100px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      width: 100%;
+      height: 700px;
+      background: url('Images/A.png') no-repeat center top;
+      background-size: 200px;
+    }
+    .founder-text {
+      top: 300px;
+      width: 100%;
+      margin-left: 80px;
+    }
+    h1.f-title {
+      font: bold 30px/45px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:20px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 30px 0 20px 0;
+    }
+    .a1{
+      height: 40px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 1000px;
+  }
+    .star{
+      position: relative;
+      width: 100px;
+      height: 100px;
+    }
+    .tilt1{
+      height: 500px;
+      width: 600px;
+    }
+    .tilt2{
+      height: 505px;
+      width: 550px;
+    }
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 200px;
+      height: 580px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px;  
+      top: 50px;
+      left: 320px;
+    }
+    .para{
+      position: relative;
+       top: 240px;
+       right: 120px;
+       width: 400px;
+    }
+    h1.title{
+      font: bold 40px/50px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 22px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 16px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 910px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 90px;
+    left: 220px;
+    height: 90px;
+  }
+  .star-1{
+    position: relative;
+    height: 40px;
+    top: 10px;
+    margin-left: 3px;
+  }
+  .star-2{
+    position: relative;
+    height: 40px;
+    top: 10px;
+    margin-left: 3px;
+  }
+  img.p{
+    height: 45px;
+   
+  }
+  img.ap{
+    height: 40px;
+    margin-bottom: 5px;
+  }
+  span{
+    position: relative;
+    font-size: 18px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    left: 315px;
+    top: 190px;
+    width: 300px;
+  }
+  .apple{
+    position: relative;
+    right: 36px;
+    top: 390px;
+    width: 300px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 470px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 25px;
+  }
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 600px;
+  }
+  .tilt-l{
+    height: 400px;
+    position: relative;
+    left: 130px;
+  }
+  h1.last{
+    font: bold 30px/15px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 700px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 0px;
+    width: 40%;
+    align-items: center;
+    padding-left: 80px;
+    margin: 4%;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 18px/20px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 20px/20px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+  #K1{
+    font: bold 25px/20px "Raleway Semibold", sans-serif;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 600px)
+{
+  .first{
+    position: relative;
+    height: 450px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  .btn{
+    position: relative;
+    float: right;
+    top: -25px;
+    right: 10px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 2.3px;
+    font: bold 13px/20px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 8px 23px;
+  }
+  .logo{
+    position: relative;
+    left: 120px;
+    top: -35px;
+    height: 50px;
+  }
+  .text{
+    position: relative;
+    top: 140px;
+    left: 60px;
+    width: 500px;
+  }
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 30px/40px "Raleway bold", sans-serif;
+  }
+  .btn-light{
+    position: relative;
+    right: 165px;
+    margin-top: 50px;
+    color:rgba(51,51,51,1) ;
+  background-color: rgba(255,255,255,1);
+}
+.btn .btn-outline-light{
+  background-color: transparent;
+}
+
+  
+  
+  
+  .home {
+      position: relative;
+      height: 800px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 100px;
+    }
+    .container{
+      position: relative;
+      top: 100px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      width: 100%;
+      height: 700px;
+      background: url('Images/A.png') no-repeat center top;
+      background-size: 200px;
+    }
+    .founder-text {
+      top: 300px;
+      width: 100%;
+      margin-left: 130px;
+    }
+    h1.f-title {
+      font: bold 25px/35px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:17px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 25px 0 20px 0;
+    }
+    .a1{
+      height: 30px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 1000px;
+  }
+    .star{
+      position: relative;
+      width: 100px;
+      height: 100px;
+    }
+    .tilt1{
+      height: 500px;
+      width: 500px;
+    }
+    .tilt2{
+      height: 505px;
+      width: 500px;
+    }
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 200px;
+      height: 580px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px;  
+      top: 50px;
+      left: 280px;
+    }
+    .para{
+      position: relative;
+       top: 220px;
+       right: 100px;
+       width: 400px;
+    }
+    h1.title{
+      font: bold 40px/50px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 22px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 16px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 900px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 90px;
+    left: 195px;
+    height: 90px;
+  }
+  .star-1{
+    position: relative;
+    height: 35px;
+    top: -5px;
+    margin-left: 3px;
+  }
+  .star-2{
+    position: relative;
+    height: 35px;
+    top: -5px;
+    margin-left: 3px;
+  }
+  img.p{
+    height: 45px;
+   
+  }
+  img.ap{
+    height: 40px;
+    margin-bottom: 5px;
+  }
+  span{
+    position: relative;
+    font-size: 18px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    left: 300px;
+    top: 200px;
+    width: 285px;
+  }
+  .apple{
+    position: relative;
+    right: 20px;
+    top: 410px;
+    width: 290px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 490px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 25px;
+  }
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 600px;
+  }
+  .tilt-l{
+    height: 400px;
+    position: relative;
+    left: 80px;
+  }
+  h1.last{
+    font: bold 30px/15px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 700px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 0px;
+    width: 40%;
+    align-items: center;
+    padding-left: 80px;
+    margin: 4%;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 18px/20px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 20px/20px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+  #K1{
+    font: bold 25px/20px "Raleway Semibold", sans-serif;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 568px)
+{
+  .first{
+    position: relative;
+    height: 400px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  .btn{
+    position: relative;
+    float: right;
+    top: -18px;
+    right: 10px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 2px;
+    font: bold 13px/18px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 8px 23px;
+  }
+  .logo{
+    position: relative;
+    left: 120px;
+    top: -35px;
+    height: 50px;
+  }
+  .text{
+    position: relative;
+    top: 140px;
+    left: 40px;
+    width: 500px;
+  }
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 30px/40px "Raleway bold", sans-serif;
+  }
+  .btn-light{
+    position: relative;
+    right: 165px;
+    margin-top: 50px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 800px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 100px;
+    }
+    .container{
+      position: relative;
+      top: 100px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      width: 100%;
+      height: 700px;
+      background: url('Images/A.png') no-repeat center top;
+      background-size: 200px;
+    }
+    .founder-text {
+      top: 300px;
+      width: 100%;
+      margin-left: 130px;
+    }
+    h1.f-title {
+      font: bold 25px/35px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:17px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 25px 0 20px 0;
+    }
+    .a1{
+      height: 30px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 1000px;
+  }
+    .star{
+      position: relative;
+      width: 100px;
+      height: 100px;
+    }
+    .tilt1{
+      height: 500px;
+      width: 500px;
+    }
+    .tilt2{
+      height: 505px;
+      width: 500px;
+    }
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 200px;
+      height: 580px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px;  
+      top: 50px;
+      left: 280px;
+    }
+    .para{
+      position: relative;
+       top: 140px;
+       right: 100px;
+       width: 400px;
+    }
+    h1.title{
+      font: bold 40px/50px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 22px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 16px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 950px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 90px;
+    left: 170px;
+    height: 90px;
+  }
+  .star-1{
+    position: relative;
+    height: 35px;
+    top: -5px;
+    margin-left: 3px;
+  }
+  .star-2{
+    position: relative;
+    height: 35px;
+    top: -5px;
+    margin-left: 3px;
+  }
+  img.p{
+    height: 45px;
+   
+  }
+  img.ap{
+    height: 40px;
+    margin-bottom: 5px;
+  }
+  span{
+    position: relative;
+    font-size: 18px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    left: 290px;
+    top: 220px;
+    width: 280px;
+  }
+  .apple{
+    position: relative;
+    right: -5px;
+    top: 330px;
+    width: 290px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 400px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 25px;
+  }
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 600px;
+  }
+  .tilt-l{
+    height: 400px;
+    position: relative;
+    left: 80px;
+  }
+  h1.last{
+    font: bold 30px/15px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 700px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: 0px;
+    width: 40%;
+    align-items: center;
+    padding-left: 80px;
+    margin: 4%;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 18px/20px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 20px/20px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+  #K1{
+    font: bold 25px/20px "Raleway Semibold", sans-serif;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 414px)
+{
+  .first{
+    position: relative;
+    height: 500px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  .btn{
+    position: relative;
+    float: right;
+    top: -30px;
+    right: -15px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 2px;
+    font: bold 12px/18px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 8px 13px;
+  }
+  .logo{
+    position: relative;
+    left: 90px;
+    top: -35px;
+    height: 40px;
+  }
+  .text{
+    position: relative;
+    top: 160px;
+    left: 60px;
+    width: 300px;
+  }
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 25px/30px "Raleway bold", sans-serif;
+  }
+  .btn-light{
+    position: relative;
+    right: 90px;
+    margin-top: 80px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  .home {
+      position: relative;
+      height: 800px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 100px;
+    }
+    .container{
+      position: relative;
+      top: 100px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      width: 100%;
+      height: 700px;
+      background: url('Images/A.png') no-repeat center top;
+      background-size: 200px;
+      top: -35px;
+    }
+    .founder-text {
+      top: 300px;
+      width: 100%;
+      margin-left: 130px;
+    }
+    h1.f-title {
+      font: bold 25px/35px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:17px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 25px 0 20px 0;
+    }
+    .a1{
+      height: 30px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 900px;
+  }
+    .star{
+      position: relative;
+      width: 90px;
+      height: 90px;
+    }
+    .tilt1{
+      height: 450px;
+      width: 370px;
+    }
+    .tilt2{
+      height: 455px;
+      width: 370px;
+    }
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 200px;
+      height: 500px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px;  
+      top: 50px;
+      left: 210px;
+    }
+    .para{
+      position: relative;
+       top: 110px;
+       right: 35px;
+       width: 350px;
+    }
+    h1.title{
+      font: bold 30px/40px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 20px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 14px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 840px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 80px;
+    left: 100px;
+    height: 90px;
+  }
+  .star-1{
+    position: relative;
+    height: 25px;
+    top: 30px;
+    left: 50px;
+    margin-left: 3px;
+  }
+  .star-2{
+    position: relative;
+    height: 25px;
+    top: 5px;
+    left: 65px;
+    margin-left: 3px;
+  }
+  img.p{
+    height: 25px;
+   margin-bottom: -2px;
+  }
+  img.ap{
+    height: 30px;
+    margin-bottom: -2px;
+  }
+  span{
+    position: relative;
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    left: 95px;
+    top: 120px;
+    width: 290px;
+  }
+  .apple{
+    position: relative;
+    right: 25px;
+    top: 170px;
+    width: 310px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 250px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 25px;
+  }
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 600px;
+  }
+  .tilt-l{
+    height: 400px;
+    position: relative;
+    left: 0px;
+  }
+  h1.last{
+    font: bold 30px/15px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 950px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: -20px;
+    width: 60%;
+    align-items: center;
+    padding-left: 80px;
+    margin: 2%;
+    margin-bottom: 10%;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 25px/40px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 16px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 20px/30px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 110px;
+  }
+  #K1{
+    font: bold 25px/20px "Raleway Semibold", sans-serif;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 375px)
+{
+  .first{
+    position: relative;
+    height: 500px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  .btn{
+    position: relative;
+    float: right;
+    top: -30px;
+    right: -15px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 2px;
+    font: bold 12px/15px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 8px 13px;
+  }
+  .logo{
+    position: relative;
+    left: 90px;
+    top: -35px;
+    height: 40px;
+  }
+  .text{
+    position: relative;
+    top: 160px;
+    left: 40px;
+    width: 300px;
+  }
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 25px/30px "Raleway bold", sans-serif;
+  }
+  .btn-light{
+    position: relative;
+    right: 90px;
+    margin-top: 80px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 800px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 100px;
+    }
+    .container{
+      position: relative;
+      top: 100px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      width: 100%;
+      height: 700px;
+      background: url('Images/A.png') no-repeat center top;
+      background-size: 200px;
+    }
+    .founder-text {
+      top: 300px;
+      width: 100%;
+      margin-left: 100px;
+    }
+    h1.f-title {
+      font: bold 25px/35px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:17px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 25px 0 20px 0;
+    }
+    .a1{
+      height: 30px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 900px;
+  }
+    .star{
+      position: relative;
+      width: 90px;
+      height: 90px;
+    }
+    .tilt1{
+      height: 450px;
+      width: 370px;
+    }
+    .tilt2{
+      height: 455px;
+      width: 350px;
+    }
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 200px;
+      height: 500px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px;  
+      top: 50px;
+      left: 185px;
+    }
+    .para{
+      position: relative;
+       top: 110px;
+       right: 10px;
+       width: 350px;
+    }
+    h1.title{
+      font: bold 30px/40px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 20px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 14px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 820px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 80px;
+    left: 100px;
+    height: 80px;
+  }
+  .star-1{
+    position: relative;
+    left: 40px;
+    height: 25px;
+    top: 20px;
+    margin-left: 3px;
+  }
+  .star-2{
+    position: relative;
+    left: 65px;
+    height: 25px;
+    top: -5px;
+    margin-left: 3px;
+  }
+  img.p{
+    height: 25px;
+   margin-bottom: -2px;
+  }
+  img.ap{
+    height: 30px;
+    margin-bottom: -2px;
+  }
+  span{
+    position: relative;
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    left: 85px;
+    top: 140px;
+    width: 280px;
+  }
+  .apple{
+    position: relative;
+    right: 10px;
+    top: 200px;
+    width: 310px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 280px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 90px;
+    font-size: 25px;
+  }
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 600px;
+  }
+  .tilt-l{
+    height: 400px;
+    position: relative;
+    left: -10px;
+  }
+  h1.last{
+    font: bold 30px/15px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 900px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: -30px;
+    width: 60%;
+    align-items: center;
+    padding-left: 80px;
+    margin: 2%;
+    margin-bottom: 10%;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 25px/40px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 13px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 18px/25px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 100px;
+  }
+  #K1{
+    font: bold 30px/20px "Raleway Semibold", sans-serif;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 360px)
+{
+  .first{
+    position: relative;
+    height: 500px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  .btn{
+    position: relative;
+    float: right;
+    top: -30px;
+    right: -15px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 2px;
+    font: bold 12px/15px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 8px 13px;
+  }
+  .logo{
+    position: relative;
+    left: 90px;
+    top: -35px;
+    height: 40px;
+  }
+  .text{
+    position: relative;
+    top: 160px;
+    left: 40px;
+    width: 300px;
+  }
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 25px/30px "Raleway bold", sans-serif;
+  }
+  .btn-light{
+    position: relative;
+    right: 90px;
+    margin-top: 80px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  .home {
+      position: relative;
+      height: 800px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 100px;
+    }
+    .container{
+      position: relative;
+      top: 100px;
+      background: rgba(21,109,242,1);
+    }
+    .founder {
+      width: 100%;
+      height: 700px;
+      background: url('Images/A.png') no-repeat center top;
+      background-size: 200px;
+    }
+    .founder-text {
+      top: 300px;
+      width: 100%;
+      margin-left: 100px;
+    }
+    h1.f-title {
+      font: bold 25px/35px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:17px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 25px 0 20px 0;
+    }
+    .a1{
+      height: 30px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 900px;
+  }
+    .star{
+      position: relative;
+      width: 90px;
+      height: 90px;
+    }
+    .tilt1{
+      height: 450px;
+      width: 370px;
+    }
+    .tilt2{
+      height: 455px;
+      width: 350px;
+    }
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 200px;
+      height: 500px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px;  
+      top: 50px;
+      left: 185px;
+    }
+    .para{
+      position: relative;
+       top: 110px;
+       right: 10px;
+       width: 350px;
+    }
+    h1.title{
+      font: bold 30px/40px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 20px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 14px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 770px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 80px;
+    left: 90px;
+    height: 75px;
+  }
+  .star-1{
+    position: relative;
+    left: 40px;
+    height: 25px;
+    top: 20px;
+    margin-left: 4px;
+  }
+  .star-2{
+    position: relative;
+    left: 65px;
+    height: 25px;
+    top: -5px;
+    margin-left: 4px;
+  }
+  img.p{
+    height: 25px;
+   margin-bottom: -2px;
+  }
+  img.ap{
+    height: 30px;
+    margin-bottom: -2px;
+  }
+  span{
+    position: relative;
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    left: 80px;
+    top: 140px;
+    width: 280px;
+  }
+  .apple{
+    position: relative;
+    right: -5px;
+    top: 195px;
+    width: 310px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 260px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 70px;
+    font-size: 25px;
+  }
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 600px;
+  }
+  .tilt-l{
+    height: 400px;
+    position: relative;
+    left: -10px;
+  }
+  h1.last{
+    font: bold 30px/15px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 850px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: -30px;
+    width: 60%;
+    align-items: center;
+    padding-left: 80px;
+    margin: 2%;
+    margin-bottom: 10%;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 18px/20px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 13px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 18px/30px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+  #K1{
+    font: bold 25px/20px "Raleway Semibold", sans-serif;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-device-width: 320px)
+{
+  .first{
+    position: relative;
+    height: 400px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px;
+  }
+  .inner{
+    position: relative;
+      top: 100px;
+  }
+  .btn{
+    position: relative;
+    float: right;
+    top: -30px;
+    right: -25px;
+    color: rgba(255,255,255,1);
+    border-color: rgba(255,255,255,1);
+    border-radius: 50px;
+    border-width: 2px;
+    font: bold 10px/15px "Raleway bold", sans-serif;
+    letter-spacing: 1px;
+    padding: 5px 8px;
+  }
+  .logo{
+    position: relative;
+    left: 90px;
+    top: -35px;
+    height: 30px;
+  }
+  .text{
+    position: relative;
+    top: 140px;
+    left: 35px;
+    width: 250px;
+  }
+  h1.m-title{
+    color: rgba(255,255,255,1);
+    font: bold 20px/30px "Raleway bold", sans-serif;
+  }
+  .btn-light{
+    position: relative;
+    right: 65px;
+    margin-top: 50px;
+    color:rgba(51,51,51,1) ;
+    background-color: rgba(255,255,255,1);
+  }
+  .btn .btn-outline-light{
+    background-color: transparent;
+  }
+  
+  
+  
+  .home {
+      position: relative;
+      height: 750px;
+      background: rgba(21,109,242,1);
+      margin-bottom: 40px; 
+      margin-top: 60px;
+    }
+    .container{
+      position: relative;
+      top: 100px;
+    }
+    .founder {
+      width: 100%;
+      height: 650px;
+      background: url('Images/A.png') no-repeat center top;
+      top: -50px;
+      background-size: 200px;
+    }
+    .founder-text {
+      top: 280px;
+      width: 100%;
+      margin-left: 90px;
+    }
+    h1.f-title {
+      font: bold 22px/35px "Raleway bold", sans-serif;
+      color: rgba(255,255,255,1);
+      letter-spacing: 1.5px;
+    }
+    ul{
+      font-family: "Raleway Semibold", sans-serif;
+      color:rgba(255,255,255,1) ;
+      font-size:15px;
+      list-style-type: none;
+      line-height: 60px;
+      padding: 25px 0 20px 0;
+    }
+    .a1{
+      height: 30px;
+      margin-right: 20px;
+    }
+  
+  
+  
+  
+  .container-1{
+    height: 900px;
+  }
+    .star{
+      position: relative;
+      width: 80px;
+      height: 80px;
+    }
+    .tilt1{
+      height: 450px;
+      width: 300px;
+    }
+    .tilt2{
+      height: 455px;
+      width: 300px;
+    }
+    .pic{           
+      position: absolute;
+    }
+    .overlay{
+      position: relative;
+       top: 200px;
+      height: 500px;
+      background: rgba(21,109,242,1);
+      color: rgba(255,255,255,1);
+    }
+    .overlay-content{
+      position: relative;
+      width: 250px;  
+      top: 50px;
+      left: 160px;
+    }
+    .para{
+      position: relative;
+       top: 110px;
+       right: 35px;
+       width: 280px;
+    }
+    h1.title{
+      font: bold 26px/35px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+    }
+    h4.title1{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 18px;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+    h6.title2{
+      font-family: "Raleway Semibold", sans-serif;
+      font-size: 12px;
+    }
+  
+  
+  .rating{
+    position: relative;
+    height: 720px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1) ;
+  }
+  .mini-logo{
+    position: relative;
+    top: 40px;
+    left: 75px;
+    height: 75px;
+  }
+  .star-1{
+    position: relative;
+    left: 65px;
+    height: 25px;
+    top: -8px;
+    margin-left: 4px;
+  }
+  .star-2{
+    position: relative;
+    left: 95px;
+    height: 25px;
+    top: -30px;
+    margin-left: 4px;
+  }
+  img.p{
+    height: 25px;
+   margin-bottom: -2px;
+  }
+  img.ap{
+    height: 30px;
+    margin-bottom: -2px;
+  }
+  span{
+    position: relative;
+    font-size: 15px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  .playstore{
+    position: relative;
+    left: 32px;
+    top: 120px;
+    width: 280px;
+  }
+  .apple{
+    position: relative;
+    right: 8px;
+    top: 200px;
+    width: 310px;
+  }
+  #carouselExample{
+  position: relative;
+  top: 280px;
+  }
+  .c{
+    position: relative ;
+    margin-bottom: 70px;
+    font-size: 22px;
+  }
+  
+  
+  
+  .four{
+    position: relative;
+    top: 50px;
+   height: 550px;
+  }
+  .tilt-l{
+    height: 400px;
+    position: relative;
+    left: -40px;
+  }
+  h1.last{
+    font: bold 25px/15px "Raleway bold", sans-serif;
+      letter-spacing: 1.5px;
+  }
+  
+  
+  
+  .five{
+    height: 900px;
+    background: rgba(21,109,242,1);
+    color:rgba(255,255,255,1); 
+  }
+  .column {
+    position: relative;
+    float: left;
+    left: -30px;
+    width: 80%;
+    align-items: center;
+    padding-left: 80px;
+    margin: 2%;
+    margin-bottom: 10%;
+  }
+  .row{
+  position: relative;
+  top: 80px;
+  
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  h2{
+    font: bold 22px/40px "Raleway bold", sans-serif;
+  }
+  p{
+    font-size: 13px;
+    font-family: "Raleway Semibold", sans-serif;
+  }
+  h1.bottom{
+    position: relative;
+    font: bold 16px/20px "Raleway Semibold", sans-serif;
+    letter-spacing: 1.2px;
+    top: 130px;
+  }
+  #K1{
+    font: bold 25px/20px "Raleway Semibold", sans-serif;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
